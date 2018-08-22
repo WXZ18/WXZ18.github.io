@@ -1,0 +1,68 @@
+h1 k{
+    color: white;
+}
+ul.css-menu{
+    list-style: none;
+    border-bottom: 1p Yellow solid;
+    padding-bottom: 10px;
+    
+}
+ul.css-menu li{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 150px;
+}
+ul.css-menu li a{
+    color: white;
+    background: yellow;
+    border: 2px orange solid;
+    border-bottom: none;
+    padding: 10px 14px
+}
+ul.css-menu li a.selected{
+    color: White;
+    background: black;
+    border: 1px yellow;
+    border-bottom: 1px yellow;
+    padding: 14px 14px 10px 14px;
+}
+ul.css-menu li a:hover{
+    color: blue
+}
+.about {
+    border: 2px dotted black;
+    margin-top: 70px;
+    padding-left: 40px;
+    color: black;
+    background: whitesmoke;
+}
+ul.css-shoprow1 li {
+    display: inline-block;
+    margin-right: 100px;
+}
+ul.css-shoprow2 li {
+    display: inline-block;
+    margin-right: 100px;
+}
+ul.css-shoprow3 li {
+    display: inline-block;
+    margin-right: 100px;
+}
+.header {
+    display: inline-block;
+}
+.footer {
+padding: 10px;
+background:snow;
+text-align: left;
+color: rgb(95, 86, 86);
+padding-bottom: 100px;
+}
+.b1 {
+    background: black; 
+    color: white; 
+    font-size: 9pt; 
+   }
+   .fig {
+    text-align: center;
+   }
